@@ -9,11 +9,13 @@ The project integrated basic tools of full stack web devolopment.
 
 1. Using HTML and CSS to implement web page design.
 
-2. The devolopment of this project is in Linux environment through Azure VM. Deployed a LAMP stack web server to your Azure VM and design a website that enables the game tetris to be played in a browser. The web server will be hosted on the Microsoft Azure platform. Configurating and deploying Apache httpd, MySQL and PHP in Linux VM.  The Apache httpd web server should be configured to run php and handle HTTP requests. 
+2. The devolopment of this project is in Linux environment through Azure VM. Deployed a LAMP stack web server to your Azure VM and design a website that enables the game tetris to be played in a browser. The web server will be hosted on the Microsoft Azure platform. Configurating and deploying Apache httpd, MySQL and PHP in Linux VM.  The Apache httpd web server should be configured to run php and handle HTTP requests.
 
-3. Using MySQL to access and integrate usr's data. Create and interact with MySQL using the Structured Query Language to populate and read from the database tables to enable registration, user login, storing of scores from completed games and reading data to populate the leaderboard. Write php code using mysqli to integarte the data from these queries within web application. 
+3. Using php to implement login, logout, cookie, sessions, and the integration with database.
 
-4. The functionality and logic part of tetris game is done by php and javascript. Integrating HTML elements and js with the usage of DOM. Response usr's action by using js. The management of cookies and sessions is also done by js and php.
+4. Using MySQL to access and integrate usr's data. Create and interact with MySQL using the Structured Query Language to populate and read from the database tables to enable registration, user login, storing of scores from completed games and reading data to populate the leaderboard. Write php code using mysqli to integarte the data from these queries within web application. 
+
+5. The functionality and logic part of tetris game is done by php and javascript. Integrating HTML elements and js with the usage of DOM. Response usr's action by using js. The management of cookies and sessions is also done by js and php.
 
 ## Build with
 js DOM
